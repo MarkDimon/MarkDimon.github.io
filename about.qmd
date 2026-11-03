@@ -1,0 +1,20 @@
+---
+title: "About Me"
+image: Dimon_Mark_UNLimited_Headshot.JPG
+about: This blog will go into what NFL teams are the best in terms of drafting players and how much does drafting players lead to success on the football field.
+  template: jolla
+  links:
+    - icon: X
+      text: X
+      href: https://x.com/markdimon12
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mark-dimon-37164b362/
+    - icon: github
+      text: Github
+      href: https://markdimon.github.io/
+
+---
+About this blog
+
+This blog will go into what NFL teams are the best in terms of drafting players and how much does drafting players lead to success on the football field.
